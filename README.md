@@ -13,6 +13,11 @@ Todas as dependências podem ser encontradas no arquivo `requirements.txt`, mas 
 * Surprise (biblioteca do Python para sistemas de recomendação)
 * Jupyter Notebook
 
+
+Para instalar as dependências execute na pasta raiz do projeto: `pip install -r requirements.txt`. 
+
+Para acessar o Jupyter Notebook que criei, execute na pasta raiz do projeto `jupyter notebook`. Logo em seguida seu browser será aberto e basta selecionar o arquivo "Sistema de Recomendação.ipynb". 
+
 # Estrutura do projeto
 
 ```{sh}
